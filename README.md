@@ -16,4 +16,4 @@ Have questions? Join the Spark AR Community group on Facebook.
 <h1>Donations</h1>
 If you used this in client projects, or simply enjoyed making effects with my open-source projects, please consider a donation or sponsorship. One-time donations and subscriptions can be made with PayPal.
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jankow9785%40googlemail.com&currency_code=USD&source=url" rel="nofollow"><input type="hidden" name="business" value="jankow9785@googlemail.com" /><img src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" alt="" data-canonical-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" style="max-width:100%;"></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJZCPPXBCGV8C&source=url" rel="nofollow"><input type="hidden" name="business" value="jankow9785@googlemail.com" /><img src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" alt="" data-canonical-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" style="max-width:100%;"></a>

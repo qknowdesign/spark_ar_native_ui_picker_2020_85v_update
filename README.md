@@ -1,9 +1,9 @@
-<h1> Glitter Effect in Spark AR </h1>
+<h1> Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR </h1>
 
 Tutorial on YouTube 
-<a href="https://www.youtube.com/watch?v=Yumu3aqeRbI">Spark AR Native UI Picker 2020 for 3D Objects (update 85v)</a>
+<a href="https://youtu.be/dTA6LzCP7N4">How to create Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR</a>
 
-<a href="https://www.youtube.com/watch?v=Yumu3aqeRbI" alt="Spark AR Native UI Picker 2020 for 3D Objects (update 85v)"> <img src="qknowdesign_spark_ar_native_ui_picker_2020_85v_update_thumb.jpg"/> </a> 
+<a href="https://youtu.be/dTA6LzCP7N4" alt="How to create Light Setting, Light Leaks and Animation Sequence as Light Effects in SPARK AR"> <img src="qknowdesign_light-setting_light-leak_animated_light-effect.jpg"/> </a> 
 
 Learn more stuff by watching my <a href="https://www.youtube.com/channel/UC_ycBf44SNpOc7w6kvYkufA?view_as=subscriber">Spark AR Tutorials on YouTube</a>!
 

@@ -3,7 +3,7 @@
 Tutorial on YouTube 
 <a href="https://youtu.be/Yumu3aqeRbI">Spark AR Native UI Picker 2020 Tutorial</a>
 
-<a href="https://youtu.be/Yumu3aqeRbI" alt="Spark AR Native UI Picker 2020 Tutorial"> <img src="qknowdesign_light-setting_light-leak_animated_light-effect.jpg"/> </a> 
+<a href="https://youtu.be/Yumu3aqeRbI" alt="Spark AR Native UI Picker 2020 Tutorial"> <img src="qknowdesign_spark_ar_native_ui_picker_2020_85v_update_thumb.jpg"/> </a> 
 
 Learn more stuff by watching my <a href="https://www.youtube.com/channel/UC_ycBf44SNpOc7w6kvYkufA?view_as=subscriber">Spark AR Tutorials on YouTube</a>!
 

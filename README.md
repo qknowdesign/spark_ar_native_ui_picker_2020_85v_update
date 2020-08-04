@@ -1,9 +1,9 @@
 <h1> Spark AR Native UI Picker 2020 </h1>
 
 Tutorial on YouTube 
-<a href="https://youtu.be/Yumu3aqeRbI">Spark AR Native UI Picker 2020 Tutorial</a>
+<a href="https://youtu.be/ngJHngyCQJg">Spark AR Native UI Picker 2020 Tutorial</a>
 
-<a href="https://youtu.be/Yumu3aqeRbI" alt="Spark AR Native UI Picker 2020 Tutorial"> <img src="qknowdesign_spark_ar_native_ui_picker_2020_85v_update_thumb.jpg"/> </a> 
+<a href="https://youtu.be/ngJHngyCQJg" alt="Spark AR Native UI Picker 2020 Tutorial"> <img src="200803_spark_ar_render_pass_qknow_design.jpg"/> </a> 
 
 Learn more stuff by watching my <a href="https://www.youtube.com/channel/UC_ycBf44SNpOc7w6kvYkufA?view_as=subscriber">Spark AR Tutorials on YouTube</a>!
 
